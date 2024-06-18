@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
@@ -24,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
@@ -33,8 +36,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
