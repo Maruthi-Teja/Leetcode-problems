@@ -43,3 +43,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
+# Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
