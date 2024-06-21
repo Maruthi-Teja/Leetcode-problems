@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0162-find-peak-element](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
+| [1138-grumpy-bookstore-owner](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -55,3 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1138-grumpy-bookstore-owner) |
