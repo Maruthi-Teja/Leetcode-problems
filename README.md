@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
@@ -50,15 +51,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Sliding Window
 |  |
 | ------- |
@@ -67,7 +71,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
