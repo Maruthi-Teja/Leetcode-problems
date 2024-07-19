@@ -4,9 +4,7 @@ class Solution {
         int n = matrix[0].length;
         int[] min = new int[m];
         int[] max = new int[n];
-        for(int i=0;i<n;i++){
-            max[i] = Integer.MIN_VALUE;
-        }
+        
         for(int i=0;i<m;i++){
              min[i]= Integer.MAX_VALUE;
             for(int j=0;j<n;j++){
