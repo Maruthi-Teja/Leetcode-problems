@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -102,8 +103,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
