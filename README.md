@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Matrix
@@ -115,5 +116,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
