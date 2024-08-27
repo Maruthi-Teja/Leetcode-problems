@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Matrix
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -130,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
