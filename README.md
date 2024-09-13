@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
@@ -162,4 +165,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0146-lru-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
