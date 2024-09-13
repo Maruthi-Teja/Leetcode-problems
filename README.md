@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0146-lru-cache) |
 | [2502-sort-the-people](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -152,4 +154,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/2155-find-missing-observations) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Maruthi-Teja/Leetcode-problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
